@@ -1,5 +1,5 @@
 import React from 'react';
-import Video from '../../videos/video.mp4';
+import Video from '../../videos/video2.mp4';
 import Resume from '../../pdfs/resume.pdf'
 import { BrandingContainer, BrandingBg, VideoBg, BrandingContent, BrandingH1, BrandingP, BrandingBtnWrapper } from './BrandingElements';
 import { Button } from '../ButtonElement';
