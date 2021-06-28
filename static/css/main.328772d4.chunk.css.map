@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAU,CACV,qBAAsB,CACtB,qCACF,CAEA,MACE,qBACF","file":"main.328772d4.chunk.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n  font-family: 'Noto Sans JP', sans-serif;\n}\n\n:root {\n  --main-colour: #00b9fb\n}"]}
